@@ -37,6 +37,8 @@ Each switch connects to the next via a redundant pair of trunk uplinks
 <img width="549" height="356" alt="image" src="https://github.com/user-attachments/assets/24b408f0-d0d5-467c-9e97-8a406fd4e6bc" />
 
 
+
+
 2. VLAN PLAN
 --------------------------------------------------------------------------------
  VLAN    Purpose              Subnet                Assigned Floor
